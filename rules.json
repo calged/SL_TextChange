@@ -1,0 +1,262 @@
+{
+  "class_rules": [
+    {"label": "SCP-173", "file": "Class_Names.txt", "line": 1, "type": "line"},
+    {"label": "SCP-106", "file": "Class_Names.txt", "line": 4, "type": "line"},
+    {"label": "SCP-049", "file": "Class_Names.txt", "line": 6, "type": "line"},
+    {"label": "SCP-079", "file": "Class_Names.txt", "line": 8, "type": "line"},
+    {"label": "SCP-096", "file": "Class_Names.txt", "line": 10, "type": "line"},
+    {"label": "SCP-049-2", "file": "Class_Names.txt", "line": 11, "type": "line"},
+    {"label": "SCP-939", "file": "Class_Names.txt", "line": 17, "type": "line"},
+    {"label": "SCP-3114", "file": "Class_Names.txt", "line": 24, "type": "line"},
+
+    {"label": "教程角色", "file": "Class_Names.txt", "line": 15, "type": "line"},
+    {"label": "D级人员", "file": "Class_Names.txt", "line": 2, "type": "line"},
+    {"label": "科学家", "file": "Class_Names.txt", "line": 7, "type": "line"},
+    {"label": "设施警卫", "file": "Class_Names.txt", "line": 16, "type": "line"},
+
+    {"label": "九尾狐 收容专家", "file": "Class_Names.txt", "line": 5, "type": "line"},
+    {"label": "九尾狐 中士", "file": "Class_Names.txt", "line": 12, "type": "line"},
+    {"label": "九尾狐 指挥官", "file": "Class_Names.txt", "line": 13, "type": "line"},
+    {"label": "九尾狐 列兵", "file": "Class_Names.txt", "line": 14, "type": "line"},
+
+    {"label": "混沌分裂者 征召兵", "file": "Class_Names.txt", "line": 9, "type": "line"},
+    {"label": "混沌分裂者 步枪手", "file": "Class_Names.txt", "line": 19, "type": "line"},
+    {"label": "混沌分裂者 掠夺者", "file": "Class_Names.txt", "line": 20, "type": "line"},
+    {"label": "混沌分裂者 压制者", "file": "Class_Names.txt", "line": 21, "type": "line"}
+  ],
+
+  "item_rules": [
+
+    {
+      "label": "混沌分裂者破解装置",
+      "file": "Items.txt",
+      "line": 11,
+      "type": "part"
+    },
+    {
+      "label": "O5级别钥匙卡",
+      "file": "Items.txt",
+      "line": 12,
+      "type": "part"
+    },
+
+    {
+      "label": "COM-15 手枪",
+      "file": "Items.txt",
+      "line": 14,
+      "type": "part"
+    },
+    {
+      "label": "急救包",
+      "file": "Items.txt",
+      "line": 15,
+      "type": "part"
+    },
+    {
+      "label": "手电筒",
+      "file": "Items.txt",
+      "line": 16,
+      "type": "part"
+    },
+    {
+      "label": "Micro H.I.D.",
+      "file": "Items.txt",
+      "line": 17,
+      "type": "part"
+    },
+
+    {
+      "label": "SCP-500",
+      "file": "Items.txt",
+      "line": 18,
+      "type": "part"
+    },
+    {
+      "label": "SCP-207",
+      "file": "Items.txt",
+      "line": 19,
+      "type": "part"
+    },
+
+    {
+      "label": "MTF-E11-SR 步枪",
+      "file": "Items.txt",
+      "line": 20,
+      "type": "part"
+    },
+    {
+      "label": "Crossvec 冲锋枪",
+      "file": "Items.txt",
+      "line": 21,
+      "type": "part"
+    },
+    {
+      "label": "FSP-9 冲锋枪",
+      "file": "Items.txt",
+      "line": 22,
+      "type": "part"
+    },
+    {
+      "label": "Logicer 轻机枪",
+      "file": "Items.txt",
+      "line": 23,
+      "type": "part"
+    },
+    {
+      "label": "高爆手雷",
+      "file": "Items.txt",
+      "line": 24,
+      "type": "part"
+    },
+    {
+      "label": "闪光弹",
+      "file": "Items.txt",
+      "line": 25,
+      "type": "part"
+    },
+    {
+      "label": "COM-18 手枪",
+      "file": "Items.txt",
+      "line": 26,
+      "type": "part"
+    },
+    {
+      "label": "SCP-018",
+      "file": "Items.txt",
+      "line": 27,
+      "type": "part"
+    },
+    {
+      "label": "SCP-268",
+      "file": "Items.txt",
+      "line": 28,
+      "type": "part"
+    },
+    {
+      "label": "肾上腺素",
+      "file": "Items.txt",
+      "line": 29,
+      "type": "part"
+    },
+    {
+      "label": "止痛药",
+      "file": "Items.txt",
+      "line": 30,
+      "type": "part"
+    },
+    {
+      "label": ".44 左轮手枪",
+      "file": "Items.txt",
+      "line": 35,
+      "type": "part"
+    },
+    {
+      "label": "AK 突击步枪",
+      "file": "Items.txt",
+      "line": 36,
+      "type": "part"
+    },
+    {
+      "label": "霰弹枪",
+      "file": "Items.txt",
+      "line": 37,
+      "type": "part"
+    },
+    {
+      "label": "糖果袋",
+      "file": "Items.txt",
+      "line": 38,
+      "type": "part"
+    },
+    {
+      "label": "SCP-2176",
+      "file": "Items.txt",
+      "line": 39,
+      "type": "part"
+    },
+    {
+      "label": "SCP-244-A",
+      "file": "Items.txt",
+      "line": 40,
+      "type": "part"
+    },
+    {
+      "label": "SCP-244-B",
+      "file": "Items.txt",
+      "line": 41,
+      "type": "part"
+    },
+    {
+      "label": "SCP-1853",
+      "file": "Items.txt",
+      "line": 42,
+      "type": "part"
+    },
+    {
+      "label": "3-X 分子裂解者",
+      "file": "Items.txt",
+      "line": 43,
+      "type": "part"
+    },
+    {
+      "label": "COM-45 手枪",
+      "file": "Items.txt",
+      "line": 44,
+      "type": "part"
+    },
+    {
+      "label": "SCP-1576",
+      "file": "Items.txt",
+      "line": 45,
+      "type": "part"
+    },
+    {
+      "label": "囚鸟",
+      "file": "Items.txt",
+      "line": 46,
+      "type": "part"
+    },
+    {
+      "label": "反向可乐",
+      "file": "Items.txt",
+      "line": 47,
+      "type": "part"
+    },
+    {
+      "label": "FR-MG-0 轻机枪",
+      "file": "Items.txt",
+      "line": 48,
+      "type": "part"
+    },
+    {
+      "label": "A7步枪",
+      "file": "Items.txt",
+      "line": 49,
+      "type": "part"
+    },
+    {
+      "label": "手提灯",
+      "file": "Items.txt",
+      "line": 50,
+      "type": "part"
+    },
+    {
+      "label": "SCP-1344",
+      "file": "Items.txt",
+      "line": 51,
+      "type": "part"
+    },
+    {
+      "label": "SCP-127",
+      "file": "Items.txt",
+      "line": 57,
+      "type": "part"
+    },
+    {
+      "label": "SCP-1509",
+      "file": "Items.txt",
+      "line": 58,
+      "type": "part"
+    }
+  ]
+}
