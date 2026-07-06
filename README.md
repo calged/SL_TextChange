@@ -47,6 +47,7 @@
 
 
 ## 使用步骤
+可参考视频：https://www.bilibili.com/video/BV1YfTD6nEqj
 1. 点击release下载文件;
 2. 运行文本修改器.exe;
 3. 打开你的 Steam，在你的库中选中 SCP 秘密实验室并单击鼠标右键，之后选择“管理” -> “浏览本地文件”，进入游戏根目录;
